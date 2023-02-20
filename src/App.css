@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+
+.MovieContainer {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('./cinema.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
